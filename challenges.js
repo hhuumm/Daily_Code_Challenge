@@ -61,7 +61,10 @@ addTwoNumbers('Hello', 5) //=> NaN
 // Your solution for 02-addTwoNumbers here:
 
 
-
+function addOne(num1,num2)
+{
+  return num1+num2
+}
 
 
 /*-----------------------------------------------------------------------------
